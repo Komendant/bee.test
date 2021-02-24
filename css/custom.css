@@ -1,0 +1,27 @@
+
+@media (min-width: 1200px) {
+    .main_wrapper {
+        width: 1200px !important;
+    }
+}
+.main_wrapper {
+     position: relative;
+     width: 100%;
+     margin: 0 auto;
+ }
+#collapseExample {
+    width:100%;
+    max-width: 500px;
+    margin:0 auto;
+}
+#loginForm {
+    width:100%;
+    max-width: 350px;
+    margin:0 auto;
+    border:1px solid #ced4da;
+    border-radius: 5px;
+    padding: 10px;
+}
+.tableBlock {
+    min-height: 180px;
+}
